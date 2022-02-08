@@ -1,0 +1,13 @@
+.divMain label {
+    display: block;
+}
+
+.divMain input {
+    display: block;
+}
+
+.divMain {
+    display: inline-block;
+    margin: 15px;
+    text-align: start;
+}
